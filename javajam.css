@@ -154,7 +154,7 @@ input, textarea {
 
 #heroroad {
     background-image: url(../googlelogo_color_272x92dp.png);
-    background-size: 100%;
+    background-size: 100% 100%;
     height: 250px;
 }
 
